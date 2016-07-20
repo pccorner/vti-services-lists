@@ -1,0 +1,9 @@
+#NAME User - bouquets (TV)
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.hd_tv.tv" ORDER BY bouquet
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.sky.tv" ORDER BY bouquet
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.bundesliga.tv" ORDER BY bouquet
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.sport.tv" ORDER BY bouquet
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.doku.tv" ORDER BY bouquet
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.musik.tv" ORDER BY bouquet
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.xxx.tv" ORDER BY bouquet
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.tv" ORDER BY bouquet
